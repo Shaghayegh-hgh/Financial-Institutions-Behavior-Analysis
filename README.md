@@ -1,1 +1,3 @@
 # Financial-Institutions-Behavior-Analysis
+
+A thorough examination of lending decisions made in the mining and manufacturing industries, represented by the SIC Codes 1000-1499 for mining and 2000-3999 for manufacturing, using two different datasets from Thomson Reuters DealScan and Compustat covering the years 2001–2013. This Thomson Reuters dataset includes lender information, lender share, pricing, performance pricing, facility and covenants from loans. From the Compustat dataset, we obtain financial measures (that an investor could also get from a company’s balance sheet). Additionally, the interlinking of DealScan-Compustat data allows for a merging these two data bases and use them for lending practices across industries, in our case mining and manufacturing
